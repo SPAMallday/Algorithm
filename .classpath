@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="algo/src"/>
 	<classpathentry kind="src" path="bj13335/src"/>
 	<classpathentry kind="src" path="bj5054/src"/>
+	<classpathentry kind="src" path="bj23351/src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
